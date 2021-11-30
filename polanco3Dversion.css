@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(19, 19, 19);
+    background-position:center;
+    font-family: 'Roboto', sans-serif;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 10px;
+  }
+
+p{
+    color: rgb(103, 103, 255);
+    text-align: center;
+  }
+  
+  span{
+    color: rgb(0, 255, 106);
+  }
+
+img{
+    background-color:white;
+    background-size: cover;
+    border-radius:50px;
+    width: 60px;
+    height: 60px;
+    float: right;
+  }
+
+.btn{
+    color: rgb(0, 255, 106);
+    background-color: rgb(21, 73, 104);
+    text-align:center;
+    border-radius: 50px;
+  margin: 0 auto;
+  padding: 1%;
+  }
+  
+  .btn:hover {
+    color: white;
+    background-color: RoyalBlue;
+  }
+  
+  
+  
+  
