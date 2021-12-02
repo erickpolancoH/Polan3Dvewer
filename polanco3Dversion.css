@@ -52,5 +52,12 @@ img{
   }
   
   
-  
+  .responsive-guide{
+    background-color:white;
+    background-size: cover;
+    border-radius:30px;
+    width: 100px;
+    height: 60px;
+    float: right;
+  }
   
