@@ -24,9 +24,9 @@
       
 <!--Guide-->
 <div class="responsive" loading="lazy">
-    <a href="https://erickpolancoh.github.io/Guide/"><img class="responsive-guide"src="guidecontribuitor.PNG" ></a>
-    
-    </div>
+    <a class="responsive-btn" href="https://erickpolancoh.github.io/Guide/">GUIDE</a>
+    <a class="responsive-btn" href="https://erickpolancoh.github.io/Polan3Dvewer/">Click to the next Page</a>
+  </div>
 
 <script src="playerid.js"></script>
       
