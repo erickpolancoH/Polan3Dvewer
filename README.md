@@ -24,7 +24,7 @@
       
 <!--Guide-->
 <div class="responsive" loading="lazy">
-    <a  href="https://erickpolancoh.github.io/Guide/"><img src="Screenshot-natasha.jpg" ></a>
+    <a href="https://erickpolancoh.github.io/Guide/"><img class="responsive-guide"src="guidecontribuitor.PNG" ></a>
     
     </div>
 
